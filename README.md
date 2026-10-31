@@ -17,6 +17,6 @@ I'm building my skills step by step and sharing my progress here ✨.
 **Contact:**
 
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:rynmouhib@gmail.com)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://example.com](https://www.linkedin.com/in/rayan-mouhib-b75543448))
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rayan-mouhib-b75543448)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ryanmohib)
 [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/rynmhb)
