@@ -20,6 +20,6 @@ I'm building my skills step by step and sharing my progress here ✨.
 ## 📫 Contact
 
 - Email: rynmouhib@gmail.com
--LinkedIn: [LinkedIn](https://example.com)
--Instagram: [Instagram](https://example.com)
--X: [X](https://example.com)
+-LinkedIn: ....
+-Instagram: ....
+-X: ...
