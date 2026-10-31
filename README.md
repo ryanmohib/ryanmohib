@@ -1,18 +1,20 @@
 # Hi there👋, Welcome!
 
-Beginner developer from Morocco 🇲🇦, learning full-stack development.
-I'm building my skills step by step and sharing my progress here.
+My name is **Rayan Mouhib** .Beginner developer from Morocco 🇲🇦, learning full-stack development.
+
 Looking forward to becoming a full-stack developer👨‍💻, and also growing in design🎨.
 
-## 🛠️ Skills & tools
+I'm building my skills step by step and sharing my progress here✨.
+
+## Tools:
 
 ![Python](https://skillicons.dev/icons?i=vscode,python,html,css,bootstrap,git,github)
 
-## 🌱 Currently learning
-- Python
-- Algorithms and problem solving
-- HTML/CSS/Bootstrap
-- Git and GitHub
+##
+- 🔭I'm currently working on this page.
+- 🌱I'm currently learning Python
+- 😄Fun fact : my last name in arabic means : the Lover (in all languages dw)
+- 📫 How to reach me: ryanmohib (X, Linkedin, Instagram)
 
 ## 📫 Contact
 - Email: rynmouhib@gmail.com
