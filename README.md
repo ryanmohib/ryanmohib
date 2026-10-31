@@ -2,6 +2,7 @@
 
 Beginner developer from Morocco 🇲🇦, learning full-stack development.
 I'm building my skills step by step and sharing my progress here.
+Looking forward to becoming a full-stack developer, and also growing in design.
 
 ## 🛠️ Skills & tools
 
@@ -12,9 +13,6 @@ I'm building my skills step by step and sharing my progress here.
 - Algorithms and problem solving
 - HTML/CSS/Bootstrap
 - Git and GitHub
-
-## 🚀 What's next
-Looking forward to becoming a full-stack developer, and also growing in design.
 
 ## 📫 Contact
 - Email: rynmouhib@gmail.com
