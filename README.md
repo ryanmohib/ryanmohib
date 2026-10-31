@@ -13,8 +13,5 @@ I'm building my skills step by step and sharing my progress here.
 - HTML/CSS/Bootstrap
 - Git and GitHub
 
-## 📂 Projects
-- [python-exercises](link-to-your-repo): my practice exercises
-
 ## 📫 Contact
 - Email: rynmouhib@gmail.com
