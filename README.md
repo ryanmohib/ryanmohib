@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Rayan 👋
 
-<!--
-**ryanmohib/ryanmohib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Beginner developer from Morocco 🇲🇦, learning Python and web development.
+I'm building my skills step by step and sharing my progress here.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://skillicons.dev/icons?i=python,html,css,git,github)
+
+## 🌱 Currently learning
+- Python
+- Algorithms and problem solving
+- Git and GitHub
+
+## 📂 Projects
+- [python-exercises](link-to-your-repo): my practice exercises
+
+## 📫 Contact
+- Email: your-email@example.com
