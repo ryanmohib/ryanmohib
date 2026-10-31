@@ -1,6 +1,6 @@
 # Hi, I'm Rayan 👋
 
-Beginner developer from Morocco , learning full-stack development.
+Beginner developer from Morocco 🇲🇦, learning full-stack development.
 I'm building my skills step by step and sharing my progress here.
 
 ## 🛠️ Skills & tools
@@ -12,6 +12,10 @@ I'm building my skills step by step and sharing my progress here.
 - Algorithms and problem solving
 - HTML/CSS/Bootstrap
 - Git and GitHub
+
+## 🎯 Goals
+- Build real projects and a solid portfolio
+- Become a professional developer
 
 ## 📫 Contact
 - Email: rynmouhib@gmail.com
