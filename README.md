@@ -1,4 +1,4 @@
-# Hi there Welcome, Welcome!👋
+# Hi there👋, Welcome!
 
 Beginner developer from Morocco 🇲🇦, learning full-stack development.
 I'm building my skills step by step and sharing my progress here.
