@@ -1,8 +1,8 @@
-# Hi, I'm Rayan 👋
+# Hi there Welcome, Welcome!👋
 
 Beginner developer from Morocco 🇲🇦, learning full-stack development.
 I'm building my skills step by step and sharing my progress here.
-Looking forward to becoming a full-stack developer, and also growing in design.
+Looking forward to becoming a full-stack developer👨‍💻, and also growing in design🎨.
 
 ## 🛠️ Skills & tools
 
