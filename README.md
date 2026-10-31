@@ -13,9 +13,8 @@ I'm building my skills step by step and sharing my progress here.
 - HTML/CSS/Bootstrap
 - Git and GitHub
 
-## 🎯 Goals
-- Build real projects and a solid portfolio
-- Become a professional developer
+## 🚀 What's next
+Looking forward to becoming a full-stack developer, and also growing in design.
 
 ## 📫 Contact
 - Email: rynmouhib@gmail.com
