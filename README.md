@@ -1,8 +1,6 @@
 # Hi there👋, Welcome!
 
-My name is **Rayan Mouhib** .Beginner developer from Morocco 🇲🇦, learning full-stack development.
-
-Looking forward to becoming a full-stack developer👨‍💻, and also growing in design🎨.
+My name is **Rayan Mouhib** .Beginner developer from Morocco 🇲🇦, learning and looking forward to becoming a full-stack developer👨‍💻, and also growing in design🎨.
 
 I'm building my skills step by step and sharing my progress here✨.
 
